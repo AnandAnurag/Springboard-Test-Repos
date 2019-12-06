@@ -1,2 +1,2 @@
-# Springboard_Test_Repos
+# Springboard Test Repos
 Hands-on experience with Git
